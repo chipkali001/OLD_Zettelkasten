@@ -1,0 +1,1 @@
+To acesss your hidden files, open system explorer. There is a zip in this folder, open it somewhere else and read what you wish to

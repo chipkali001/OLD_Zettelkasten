@@ -1,0 +1,29 @@
+[フクロウ～フクロウが知らせる客が来たと～(KOKIA) ／ダズビー COVER - YouTube](https://youtu.be/eQBlomFo1Kw)
+
+
+(YOU CAN DERIVE INSPIRATION FOR STARTING OF ARC MYSETRY LIKE  
+A kid tells MC about the lullaby the owls sing and the message they tell him.  
+MC takes his words but with a grain of salt and try to go inside forest in search of this 'Owl'  
+  
+  
+  
+  
+Here's a story to go along with the song!! Before you read, I'd just like to say if you want the best experience, put the song on repeat cause this story is kind of long!! But it will ensure the "feels" along with the story by putting the song on repeat!  
+~Enjoy :3  
+  
+  
+The sun started to set in the country over the fields hills on a late June evening. The stars started to peak through as you finished your farm work in the barn. A strange feeling overcame your mind. You felt a "pull" to go meet the forests edge and beyond. But this feeling is one of which you could not explain. After your work and a long day, you had a thought, "Gasp! It's my older sister's birthday!" You recalled how it has been eight years since she passed away and felt like that thought was part of the strange feeling that was "pulling" you to meet with the forest.  
+  
+You started walking away from home over the hills to see the forest and wondered why you wanted too greatly. On top of the hill, you gazed at the forest and the blue-gray trees blowing in the breeze from afar. You pondered on all the memories you and your sister made in the forest, like how you would pretend to be owls and make their noises and such. A tear trickled from your eye down your cheek. You missed her greatly. "She's gone forever." you whispered to yourself as you walked towards the forest. As you came up to the edge you heard a strange singing voice, like a woman's voice but somehow nostalgic. The "pull" tugged your heart and you entered the forest very willingly. You followed the melody on an overgrown trail. You walked on and on listening to the lullaby-like song that filled you with wonder. The tree's leaves blew gently in the breeze, and you felt a slight chill, but you walked onward ever more. Something was glinting up ahead to where the voice was calling you to. It was a beautiful lake shining in the moonlight only pulling you ever closer to the voice. You walked up to the lake and looked around. You bent down and saw yourself in the still water reflection. Behind you in the reflection was the full moon shining down on you. You felt warm, and at home in that moment and still nostalgic and sentimental. You noticed that the singing had come to a stop. You looked up and as your eyes adjusted you saw across the lake was a strange looking girl with flowers adorning her blonde-blue hair and an owl on her shoulder and on the ground hopping around her. She began to walk slowly like a dream around the lake and up to you, but you just felt calm and peaceful. As she got closer you noticed her elegant eyes that shone like the moon its-self as she gazed kindly at you with a smile. She held out her hand and said with the most gentlest voice, "Welcome back." You took her hand and walked with her on another path through the woods. You didn't remember these parts of the forest, and you wondered why you and your deceased sister never explored these parts when you were younger. As you walked on with her still holding her hand, she brought you to a small open glade with lanterns hanging on the branches and owls perched in the trees and on the ground. "Hoo, Hoo" was the noises you heard as you watched the girl pet the one on her shoulder. She let you pet it too and you were amazed at how soft the feathers were and how calm the owl was. She looked at you and said, "I'm glad I got to see you again." You looked confused because you didn't recall ever seeing her before. She came up closer to you and kissed your forehead gently. "Let's play again sometime, ok?"  
+  
+  
+You all of a sudden woke up from a dream and found yourself laying in the glade you were just in but there were no lanterns or the girl anywhere. You stood up and started home. "It's getting really late." you said to yourself as you walked. You still couldn't understand why she said, "I'm glad I got to see you again."  
+  
+You came to the end of the forest and started for home feeling weary and tired. "Wait." you said as you fell to your knees. Was that my sister?? Did she get older? Is that why I didn't recognize her?  
+  
+"I... I... I'M SORRY SISTER!" you cried aloud. "IT WAS YOU WAS'NT IT?!! YOU JUST WANTED TO SEE ME AGAIN AND I COULD'NT EVEN RECOGNIZE YOU!! Your head hit the soil out of fatigue and your tears fell into the soil. Your mind slipped into a calm state after you're tears dried. "I won't be able to make it home" you thought to yourself. "I'll carry you home." said the gentle now knowing it was your sister. She picked you up and started walking over the hills towards the farm. "I'm sorry." said your sister. "Please forgive my actions. I didn't die from sickness, I died because I couldn't do this anymore. After father died, and mother got sick 8 years ago, I got depressed and felt an overwhelming feeling of loneliness and discomfort and I couldn't stand it anymore. I went out to the woods after dark and took my own life." She stopped walking and looked up at the moon and said, "I've never been so foolish in all my life. Please promise me that you will protect anyone from making the mistake I did. NEVER give up on life, you're really strong and you have more power than you know.  
+  
+You looked up at her and tears flooded your eyes and said tiredly, "I promise." Then fell into a deep sleep as your sister laid you in bed.  
+The End.  
+----------------------------------------------------------------------------------------------------  
+Sigh, thank you so much for reading my story!! I just had to write a story to this song because it's so elegant and beautiful!!

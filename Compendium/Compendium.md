@@ -1,0 +1,38 @@
+%% Begin Waypoint %%
+- **[[Compendium]]**
+	- **[[1. Books]]**
+	- **2. InterPersonal**
+		- [[Charisma On Command]]
+		- **Erotic**
+			- [[Super Later]]
+		- **[[NLP]]**
+		- **[[Typing]]**
+		- **[[Vultology]]**
+	- **3. Coding**
+		- **C or C++**
+			- [[Misconception]]
+		- [[Networking]]
+		- **Programming**
+		- **Windows**
+			- [[Windows Run Commands]]
+	- **4. Language**
+		- **[[1. Sign Language]]**
+		- **[[2. Desi Langauge]]**
+	- **5. Financial**
+		- [[Wealth Bookmarks]]
+	- **7. Cooking**
+		- [[_Ultimate Anabolic Cookbook 2.0 Coach Greg]]
+		- [[Burrito]]
+		- [[Chick Pea Flour]]
+		- [[Crepes]]
+		- [[Ramen]]
+		- [[Tacos]]
+		- [[Tortilla]]
+	- **8. Longevity**
+		- [[Hairloss]]
+		- [[Longevity Bookmarks]]
+	- [[Compendium]]
+	- **x. Spirituality**
+		- [[DashBoard]]
+
+%% End Waypoint %%

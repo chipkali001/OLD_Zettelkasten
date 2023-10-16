@@ -1,0 +1,1 @@
+My best friend was trying to act cool by showing how he can walk on the half ‘O’ shaped jhula in which you latak. He ended up slipping the two of his legs spli his pelvic region hit the bar then his body rotated around and he fell down. Later He told me that his whole pelvic region  is swelling for many days

@@ -1,0 +1,2 @@
+# CRASH VAN
+In 3rd or 4th class when i was coming back to home from bus,our bus stopped at point for kids to get off, there was a gali where one girl from our class used to get off, that is when an van crashed into transformer and sparks started flewing everywhere, our bus driver and other people ran three, and what happened after that. I odnt remember 

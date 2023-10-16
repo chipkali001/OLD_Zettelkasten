@@ -1,0 +1,1 @@
+nanomancer - people thinking MC dead and is dead but someone else in their body. Shiro meets her older sister/cousin and old sis realises in middle she was on way to catch her. Even that man considered shiro to be his patron since she helped him in his poverty. 

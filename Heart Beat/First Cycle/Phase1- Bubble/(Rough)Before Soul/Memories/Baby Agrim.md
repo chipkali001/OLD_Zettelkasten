@@ -1,0 +1,1 @@
+Mom tells me when i was child and i had to get off beed. On tha age kids some kids can get off bed by themselves and other are scared so they need little assistance but with me. I will remain in center of bed and ask mom to come on bed and pickup me up from center and drop me on ground. I will not go anywhere near edge

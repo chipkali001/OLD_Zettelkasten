@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "DD MMMM YYYY",
+    "folder": "Heart Beat/Second Cycle/Phase5 - Labours/Daily",
+    "template": "zBackend/Template/Journal Daily.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "zBackend/Template/Journal Weekly.md",
+    "folder": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

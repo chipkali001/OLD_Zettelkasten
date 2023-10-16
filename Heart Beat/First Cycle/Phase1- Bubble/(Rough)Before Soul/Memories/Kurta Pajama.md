@@ -1,0 +1,1 @@
+I remember when i was really really small mom tried to make me wear kurta pajama but i didn't not because of discomfort but beacuse i felt i will be looked at and evaluated so i wanted to hide. I was shy.

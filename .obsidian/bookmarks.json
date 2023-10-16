@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1695745308606,
+      "path": "zBackend/Template/Journal Weekly.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695745321971,
+      "path": "zBackend/Template/Journal Daily.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695810147807,
+      "path": "‎ GearBox/Obsidian/Obsidian Data(View-Base).md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695813140458,
+      "path": "Journal/Phase5 - Labours/Daily/Untitled.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695815195898,
+      "path": "zBackend/Template/Database Folder/Journal Database.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695818048537,
+      "path": "zBackend/Template/fileclass/Daily.md",
+      "title": "Fileclass Daily"
+    },
+    {
+      "type": "file",
+      "ctime": 1695818079799,
+      "path": "zBackend/Template/Database Folder/TimeBlocking database.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695905489144,
+      "path": "zBackend/Template/Conversation Template.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1695907600527,
+      "path": "zBackend/Template/People Template.md",
+      "title": "People"
+    },
+    {
+      "type": "file",
+      "ctime": 1695940337240,
+      "path": "zBackend/Template/Book Template.md",
+      "title": "Book Template"
+    },
+    {
+      "type": "group",
+      "ctime": 1695968968782,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1695986277069,
+          "path": "zBackend/Template/Review Songs.md",
+          "title": "Songs Review"
+        },
+        {
+          "type": "file",
+          "ctime": 1695986265166,
+          "path": "zBackend/Template/Review Novel Template.md",
+          "title": "Novel Review"
+        },
+        {
+          "type": "file",
+          "ctime": 1695986245902,
+          "path": "zBackend/Template/Review Movie-Webseries Template 1.md",
+          "title": "Movie-Series Review"
+        },
+        {
+          "type": "file",
+          "ctime": 1695969004053,
+          "path": "zBackend/Template/E Manga Template.md",
+          "title": "Manga Template"
+        }
+      ],
+      "title": "Entertainment Template"
+    }
+  ]
+}

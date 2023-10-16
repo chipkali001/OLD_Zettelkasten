@@ -1,0 +1,45 @@
+
+   
+“MOM LISTEN” (MC)
+MC FINALLY GATHERED COURAGE TO SPEAK ABOUT OSOMETHING TO HIS MOM
+“Ugh! Those papparazis are so annoying they want to turn this into headline.. Being in comma for 15 years TURNED you INTO a superstar.” (MOM)
+“YOU WANNA TELL SOMETHING?” (MOM)
+ “NAH. IT’S NOT THAT IMPORTANT” (MC)
+
+   XYZ utters “Sorry ABC” before shooting ABC (ABC IS XYZ’S WIFE WHO HAD TURNED INTO A ZOMBIE)
+      XYZ  - “”I Will follow you soon” 
+
+
+“Hey emi, what about alas Ramus?” (Satan)
+The pain was suffocating Emi and couldn’t bear to look his eyes so she only clenched her fist and averted her gazes.
+“This can’t be happening” (Satan)
+“No way”(satan)
+(What am I supposed to do in this situation0 (Emi)
+
+
+so could only avert her eyes
+
+
+CX - What is going on here!? 
+(character walks into a situation where she finds her boyfriend having *** with her mother.
+CX - I can’t believe this!!
+CX - What is going on Kazuma?!
+MOTHER - Oh Ichika. Welcome back.
+
+THERE IS NO DIFFERENCE BETWEEN A BAD DEED OR GOOD DEED BECAUSE THEY HAVE SIMILAR GOAL I.E. TO SATISY A NEED WITHIN
+AND BOY IT HAS BEEN FUN
+I CAN SEE HOW YOU MAKE THAT CONNECTION. EITHER WAY IT’S FILLING SOME SORT OF EMOTINESS
+THE MORE EFFORT SOMETHING TAKES. THE SWEETER THE REWARD IS
+WHERE IS HE GOING WITH THIS
+SATOROU YOU LIED TO ME FEW MINUTES AGO. YOU SAID YOU JUST PRETENDING THERE’S A KIDNAPPER BUT THE TRUTH IS 
+I DIDN’T WANTED TO BELIEVE.
+I RESISTED THE IDEA FOR A WHILE THE POSSIBILITY THAT SOMEONE HAS BEEN ANTICIPATING MY EVERY MOVE
+YOU WERE MY ENEMY
+ALL PIECES FIT TOGETHER.
+FIRST TIME, I PUT THAT THEORY INTO PRACTICE.
+IT WAS SO OBVIOUS. I JUST COULDN’T ACCEPT POSSIBILITY
+IT THOUGHT OF IT AS BULSHIT AND BLEW IT OFF
+IT’S ALMOST LIKE — “YOU CAN SEE IN FUTURE”
+DON’T THE GAME’S OVER FOR YOU AND ME.
+YOU KNOW I STILL CAN’T BEILIVE YOU ANTICIPATED ALL MY PLANS AND DESTROYED THEM ONE BY ONE
+I DIDN’T GET TO KILL SOMEONE FOR MY SAKE ON MY OWN TERMS

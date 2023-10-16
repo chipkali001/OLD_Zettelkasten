@@ -1,0 +1,2 @@
+Asked Suyash to write formulas on his hand to remeber them. He said No, then i said he can write on his face then roam around. No.
+What about your roomate write it on his face or back paste it - he willnt know but you’ll (GENIUS)

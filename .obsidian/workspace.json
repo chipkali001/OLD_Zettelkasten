@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "7bdaa91564f7ca40",
+    "type": "split",
+    "children": [
+      {
+        "id": "54fd5782f1f3d415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670fc247dafc806c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "King Warrior Magician Lover.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82cbcf78e290494a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d387728a75df704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "‎ Religion/Instinctual Mind.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4173f45a737aa221",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef25bec49b7b5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "760be12a3f3ff303",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e1cb15b80da1bd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83ba32cb72c87033",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3c5c57cc4d0f22c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b83651ae771794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "299264bcae869362",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4d4182cea60b135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e49cb4a8212705c2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "af38705c03e7f499",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          },
+          {
+            "id": "69cb6e8ee4b99c5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1baddc099a0c440d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e915d54cf6525dba",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "59a20eb6730a0514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929c8a968eb0f4a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "137787cf06439150",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false,
+      "dbfolder:Create a new database table": false,
+      "notion-like-tables:Create new loom": false,
+      "cmdr:Periodic Notes: Open weekly note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "82cbcf78e290494a",
+  "lastOpenFiles": [
+    "King Warrior Magician Lover.md",
+    "‎ Religion/Instinctual Mind.md",
+    "DashBoard.md",
+    "z‎Work Flows/Personality System/Personality System.md",
+    "Compendium/Compendium.md",
+    "Compendium/2. InterPersonal/NLP/NLP.md",
+    "Compendium/2. InterPersonal/NLP/0. Self Mastery Course.md",
+    "‎ Religion/‎ Religion.md",
+    "MIngling/‎ Chatterbox/‎ Chatterbox.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/1. Views, Values, Opinions, Philospophy.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/First Impression.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Fragmenting.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Indignance.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Judement to Please Self.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Liars.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Promiscuity Monogamy Polygamy.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Respect.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Personality Changes.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Memory.md",
+    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Intution.md",
+    "‎ Religion/Shards",
+    "‎ Religion/Shards/Cycles Of The Day (EXPLAINED).md",
+    "MIngling/Agrim Singh.md",
+    "Wuwei/Wuwei.md",
+    "Wuwei/Untitled Kanban.md",
+    "Energies Cultivation.md",
+    "Untitled.md",
+    "Dashboard 1.canvas",
+    "zBackend/Media/Pasted image 20231015121716.png",
+    "Mega-Vault",
+    "Heart Beat/‎ ‎ BREATHING/Travel/Awe Strucking Experintial Museums",
+    "‎ GearBox/Digital Handwritten Notes",
+    "Dashboard.canvas",
+    "‎ GearBox/Fantasy Tools",
+    "MIngling/‎ ‎ Me & My Garden",
+    "MIngling/‎ Charm/Connoisseur/Food",
+    "zBackend/Media/Pasted image 20230926175642.png",
+    "zBackend/Media/Pasted image 20231003172729.png",
+    "zBackend/Media/Pasted image 20231004060018.png",
+    "zBackend/Media/Pasted image 20231004060016.png",
+    "zBackend/Media/Pasted image 20231011182744.png",
+    "zBackend/Media/Screenshot_20230928_123934_Google.jpg",
+    "zBackend/Media/ScreenShot_20231003172612.jpeg",
+    "Heart Beat/‎ ‎ BREATHING/Things Do",
+    "Heart Beat/‎ ‎ BREATHING/Buy Wishes",
+    "‎ Mind-Body/6. Swimming-Diving"
+  ]
+}

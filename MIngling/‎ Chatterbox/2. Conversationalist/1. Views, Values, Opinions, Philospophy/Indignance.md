@@ -1,0 +1,1 @@
+Due to Indignance - bad reaction to percieved unfair treatment (PERCIEVED- in relaity it maybe fair) -

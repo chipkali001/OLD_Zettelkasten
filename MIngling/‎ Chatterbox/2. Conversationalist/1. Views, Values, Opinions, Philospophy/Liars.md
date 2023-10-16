@@ -1,0 +1,1 @@
+“I know her dad said some smart stuff” a wise man once told me liars don’t make full-fledged statements, they enjoy keeping things vague.

@@ -1,0 +1,354 @@
+{
+  "workspaces": {
+    "ChatGPT workspace'": {
+      "main": {
+        "id": "7bdaa91564f7ca40",
+        "type": "split",
+        "children": [
+          {
+            "id": "afdea720da4b8737",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5c0978c0e6148ef",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Dashboard.canvas",
+                    "viewState": {
+                      "x": -755.6900307485454,
+                      "y": -3648.5208201200126,
+                      "zoom": -1.0228435067839061
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "40307ee9b23917ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "af38705c03e7f499",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4173f45a737aa221",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ef25bec49b7b5bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "760be12a3f3ff303",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7e1cb15b80da1bd8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "929c8a968eb0f4a4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "83ba32cb72c87033",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "3c5c57cc4d0f22c1",
+        "type": "split",
+        "children": [
+          {
+            "id": "f7b83651ae771794",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "299264bcae869362",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f4d4182cea60b135",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "137787cf06439150",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Dashboard.canvas"
+                  }
+                }
+              },
+              {
+                "id": "e49cb4a8212705c2",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 359.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open ChatGPT": false,
+          "obsidian-custom-frames:Open Google": false,
+          "homepage:Open homepage": true,
+          "omnisearch:Omnisearch": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "dbfolder:Create a new database table": false,
+          "notion-like-tables:Create new loom": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "periodic-notes:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f5c0978c0e6148ef"
+    },
+    "Normal Workspace": {
+      "main": {
+        "id": "7bdaa91564f7ca40",
+        "type": "split",
+        "children": [
+          {
+            "id": "afdea720da4b8737",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f5c0978c0e6148ef",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Dashboard.canvas",
+                    "viewState": {
+                      "x": -727.3447486188003,
+                      "y": -3648.5208201200126,
+                      "zoom": -1.0228435067839061
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4173f45a737aa221",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ef25bec49b7b5bd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "760be12a3f3ff303",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7e1cb15b80da1bd8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "83ba32cb72c87033",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "3c5c57cc4d0f22c1",
+        "type": "split",
+        "children": [
+          {
+            "id": "f7b83651ae771794",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "299264bcae869362",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f4d4182cea60b135",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e49cb4a8212705c2",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "af38705c03e7f499",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "59a20eb6730a0514",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "929c8a968eb0f4a4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "137787cf06439150",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Dashboard.canvas"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 359.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-custom-frames:Open ChatGPT": false,
+          "obsidian-custom-frames:Open Google": false,
+          "homepage:Open homepage": true,
+          "omnisearch:Omnisearch": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "dbfolder:Create a new database table": false,
+          "notion-like-tables:Create new loom": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": true,
+          "periodic-notes:Open today": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f5c0978c0e6148ef"
+    }
+  },
+  "active": "Normal Workspace"
+}

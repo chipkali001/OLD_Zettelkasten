@@ -1,0 +1,14 @@
+#Dilemma/T1-Village
+#Dilemma/T2-City
+#Dilemma/T3-Mountain
+#Dilemma/T4-Country
+#Dilemma/T5-Continent 
+#Dilemma/T6-Planet 
+#Dilemma/T7-SolarSystem 
+#Dilemma/T8-Realm 
+#Dilemma/T9-Galaxy 
+#Dilemma/T10-World
+#Dilemma/T11-Spiritual 
+#Dilemma/T12-Immortal 
+#Dilemma/T13-Celestial 
+#Dilemma/T14-Divine

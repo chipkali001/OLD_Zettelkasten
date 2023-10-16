@@ -1,0 +1,3 @@
+When CX was operating on patient who was bleeding badly CY who has never saw blood in his life was about to faint, face turned Sulphur and he vomited outside (CX heard sounds)
+Don’t faint,” he said sharply. He did not put down his exploring instrument. “If I stop now the man will surely die.” She clapped her hands to her mouth and leaped up and ran out of the room. Outside in the garden he heard her retching. But he went on with his work.
+It will be better for her to empty her stomach,” he thought. He had forgotten that of course she had never seen an operation. But her distress and his inability to go to her at once made him impatient and irritable with this man who lay like dead under his knife

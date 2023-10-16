@@ -1,0 +1,39 @@
+%% Begin Waypoint %%
+- **[[04 Skeleton]]**
+	- [[04 Skeleton]]
+	- **Experience**
+		- [[Emotions]]
+		- [[Human]]
+		- [[Racist]]
+		- [[Struggle]]
+		- [[Wounds]]
+	- [[General]]
+	- [[STORY]]
+	- **Universe**
+		- [[Artifact]]
+		- **Beauty**
+			- [[City Design]]
+		- [[Conflicts]]
+		- [[Creation]]
+		- [[Creatures]]
+		- [[Culture]]
+		- [[Delicacy]]
+		- [[Dilemma]]
+		- [[Disasters]]
+		- [[Dungeon]]
+		- [[Energy]]
+		- [[Event]]
+		- [[Experience]]
+		- [[Fields]]
+		- [[Herbs]]
+		- [[Identity]]
+		- [[Magic]]
+		- [[Nature-Law]]
+		- [[Origin Ranking]]
+		- [[Planes & Realms]]
+		- [[Proffession]]
+		- [[Space-Time]]
+		- [[Elysium/2. Immortal/04 Skeleton/Universe/Timeline]]
+	- [[Elysium/2. Immortal/04 Skeleton/Untitled]]
+
+%% End Waypoint %%

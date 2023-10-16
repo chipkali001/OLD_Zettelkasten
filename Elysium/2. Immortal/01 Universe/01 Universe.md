@@ -1,0 +1,37 @@
+%% Begin Waypoint %%
+- **[[01 Universe]]**
+	- **00 History**
+		- [[History 01]]
+	- **01 Scrolls**
+		- [[01 Scroll  (World Formation)]]
+	- [[01 Universe]]
+	- **02 Wuxia, xianxia & Xuahan**
+		- [[02 Wuxia, Xianxia & Xuanhuan]]
+	- **03 Mythology**
+		- **[[Greek]]**
+		- [[Mythologies]]
+		- [[Stories]]
+	- **04 Concepts**
+		- [[04 Magic Systems]]
+		- [[Different Planes]]
+		- [[Species]]
+	- **05 Monsters**
+		- [[Monster 01]]
+	- **06 Chracter**
+		- [[Personality]]
+		- [[Quirks]]
+	- **07 Memories As Tools**
+		- [[NOTE]]
+	- **08 Politics**
+		- [[Elysium/2. Immortal/01 Universe/08 Politics/Untitled]]
+	- [[Deadly Sin]]
+	- **General-Random-Uncategorsied**
+		- [[00 Uncategorised]]
+		- [[General - Random]]
+	- **SNEAKING**
+		- [[Zac Alsop]]
+	- **Techniques**
+		- [[Sea Navigation]]
+	- **Untitled**
+
+%% End Waypoint %%

@@ -1,0 +1,2 @@
+# Solicit PUPPY
+Me and my neighbour bhaiya wanted to have a pet dog so We kidnapped puppy from piche wali gully and tried to keep it as our pet in a house that we made of brick some we  pickedfrom roadside and some from walls that were decomposing so we used to pull rocksout of  them. We put old unused bori (gray colour jute bag) on ground so it will get comfort. The location of this was in a garage

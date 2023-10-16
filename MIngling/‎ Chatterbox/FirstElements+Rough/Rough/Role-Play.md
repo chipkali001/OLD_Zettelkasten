@@ -1,0 +1,1 @@
+In middle you can just start to pretend to be some character and act dramatically

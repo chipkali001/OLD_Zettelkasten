@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "hasRibbonIcon": true,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Editing view (Live Preview)",
+      "revertView": true,
+      "refreshDataview": false,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": false,
+      "value": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40",
+      "kind": "File",
+      "commands": [],
+      "openWhenEmpty": true,
+      "alwaysApply": true,
+      "openOnStartup": true
+    }
+  },
+  "separateMobile": false
+}

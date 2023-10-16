@@ -1,0 +1,2 @@
+Before the bus used to leave we used to slap each other through window, if someone try to come in we will say oi oi  and punch him badly and throw them out.
+I did it multiple times with Arpan, he will enter bus to attack but all other kids will start to beat him, slap him, kick him, he never got to me

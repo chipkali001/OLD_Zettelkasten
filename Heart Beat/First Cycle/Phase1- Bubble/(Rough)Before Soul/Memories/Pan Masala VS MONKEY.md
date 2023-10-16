@@ -1,0 +1,6 @@
+# Pan Masala VS MONKEY
+We used to pan masala where we used to make balls of dirt cover it with leaves and we used to throw them at each other. There was a line of rose bush to separate us and it provided cover. We used to create a team then fight but after playing pan masala we used to get dirty and our hair used to get messy so I had to take bath and shampoo daily but we had to stop it because on the same ground we were playing tht game we iscvered a milipede or centipede. Coming to the story.
+
+One time a monkey was sitting on light pole of my best friend house and our gang was going in the direction in the house . We noticed dthe monkey and aimed our paan masala at him and monkey jumped from that place and started chasing us. I threw a pan masal at him in hpe it do something but monkey was still running like some hero with effects of dust fog from behind due to pan masla.  
+
+we ran we ran we ran and then stopped finally in front of my house the door was closed. We all were screaming and the monkey was sitting on top of takkhat(charpai type). Monkey and me was at one hands distance he continued looking at me but after some time mom opened  the door and with opening of door of mom monkey ran away.   

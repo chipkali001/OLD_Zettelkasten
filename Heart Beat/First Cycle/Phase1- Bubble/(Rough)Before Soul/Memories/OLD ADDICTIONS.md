@@ -1,0 +1,2 @@
+# OLD ADDICTIONS
+I CAN’T SLEEP WITHOUT WATCHING ANY CARTOON EVEN 5 minut is enough, becuz i had more or less creative mind so i needed something to chew on, to think about, and cartoon was thing i will chew on, one stage it was COC

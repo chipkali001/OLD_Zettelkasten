@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Epochs": "text",
+    "Type": "checkbox",
+    "date": "date",
+    "Dates": "date",
+    "RevisionDate": "date",
+    "DateExp": "text",
+    "Exercise": "checkbox"
+  }
+}

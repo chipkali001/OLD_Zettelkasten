@@ -1,0 +1,287 @@
+%% Begin Waypoint %%
+- **[[xFrameReality(Weed-Rough)]]**
+	- **[[____Typing People]]**
+	- **[[_Deduction]]**
+	- **_TextingtoMoveLater**
+		- [[zBackend/zzDiffuse/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]
+	- [[Deduct+Hack]]
+	- [[Deduction]]
+	- **Face-Reading**
+		- [[PsychoAnalysis-min_2.pdf]]
+	- **Human Nature**
+		- **[[Hero's Journey]]**
+	- **Manipulations**
+		- [[zBackend/zzDiffuse/xFrameReality(Weed-Rough)/Manipulations/Fight]]
+		- [[Intimidation]]
+		- [[Uncertain Vauge Play]]
+		- [[Wrap Around Fingers (EXPLORE)]]
+	- **Nurture (40%)**
+		- **Cognitive Syncronicity**
+			- [[Cognitive Synchronicity]]
+		- [[How Intimate relationship work]]
+		- **Self-Intimacy**
+			- [[4-Pillars Of Self-Intimacy]]
+			- [[Relationship Self-Intimacy]]
+	- [[Persona System]]
+	- **Personality Type (60%)**
+		- **_Myers-Briggs**
+			- **4-Brain**
+				- [[4-Brain Theory Cheat]]
+				- [[4-BrainDiagram.canvas]]
+				- [[4-Brains Cheat Sheet]]
+				- [[ABCD MBTI]]
+			- **[[16 MBTI]]**
+			- [[Attraction Dynamic]]
+			- **Cognitive Functions**
+				- [[Judging Axis]]
+				- [[Masculine Feminine Funtions]]
+				- [[Perception Axis]]
+				- [[Play Sleep Blast Consumers]]
+			- [[Communication Style]]
+			- [[Emulation]]
+			- [[Manipulation Tactics]]
+			- [[Patterns MBTI]]
+			- **Relatable**
+				- [[Flirting]]
+			- [[Relationship]]
+			- [[Unorganised]]
+		- [[Alpha Beta Gamma Delta Omega Sigma]]
+		- **[[Big 5]]**
+		- **Communiucation Syles**
+			- [[Direct Indirect]]
+			- [[Systematic Vs Interest Based]]
+		- [[Disorganised Important]]
+		- **Ennegram**
+			- [[ENNEGRAM]]
+			- [[Instincts]]
+			- **Instinctual Variants**
+				- [[Identifier]]
+				- [[Types]]
+			- **Nine Types (EDIT & PARSE OUT LATER)**
+				- [[Enneagram 1]]
+				- [[Enneagram 2]]
+				- [[Enneagram 3]]
+				- [[Enneagram 4]]
+				- [[Enneagram 5]]
+				- [[Enneagram 6]]
+				- [[Enneagram 7]]
+				- [[Enneagram 8]]
+				- [[Enneagram 9]]
+			- **TriTypes**
+				- [[Tritypes]]
+			- [[Wings]]
+		- [[Hippocrates Model]]
+		- [[MBTI-ENNEGRAM]]
+		- [[MBTI-Hacks]]
+		- [[Star - Temprament]]
+		- **Temprament**
+			- [[zBackend/zzDiffuse/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]
+		- [[Tempramental Type]]
+	- [[Value System]]
+	- [[xFrameReality(Weed-Rough)]]
+
+%% End Waypoint %%
+- **[[xFrameReality(Weed-Rough)]]**
+	- **[[____Typing People]]**
+	- **[[_Deduction]]**
+	- **_TextingtoMoveLater**
+		- [[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]		- [[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Deduct+Hack]]s-min_2.pdf]]
+	- **Human Nature**
+		- **[[Hero's Journey]]**
+	- **Manipulations**
+		- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/Manipulations/Fight]]
+		- [[Intimidation]]
+		- [[Uncertain Vauge Play[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]Wrap Around Fingers (EXPLORE)]]
+	- **Nurture (40%)**
+		- **Cognitive Syncronicity**
+			- [[Cognitive Synchronicity]]
+		- [[How Intimate relationship work]]
+		- **Self-Intimacy**
+			- [[4-Pillars Of Self-Intimacy]]
+			- [[Relationship Self-Intimacy]]
+	- [[Persona System]]
+	- **Personality Type (60%)**
+		- **_Myers-Briggs**
+			- **4-Brain**
+				- [[4-Brain Theory Cheat]]
+				- [[4-BrainDiagram.canvas]]
+				- [[4-Brains Cheat Sheet]]
+				- [[ABCD MBTI]]
+			- **[[16 MBTI]]**
+			- [[Attraction Dynamic]]
+			- **Cognitive Functions**
+				- [[Judging Axis]]
+				- [[Masculine Feminine Funtions]]
+				- [[Perception Axis]]
+				- [[Play Sleep Blast Consumers]]
+			- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]
+			- [[Emulation]]
+			- [[Manipul[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]Patterns MBTI]]
+			- **Relatable**
+				- [[Flirting]]
+			- [[Relationship]]
+			- [[Unorganised]]
+		- [[Alpha Beta Gamma Delta Omega Sigma]]
+		- **[[Big 5]]**
+		- **Communiucation Syles**
+			- [[Direct Indirect]]
+			- [[Systematic Vs Interest Based]]
+		- [[Disorganised Important]]
+		- **Ennegram**
+			- [[ENNEGRAM]]
+			- [[Instincts]]
+			- **Instinctual Variants**
+				- [[Identifier]]
+				- [[Types]]
+			- **Nine Types (EDIT & PARSE OUT LATER)**
+				- [[Enneagram 1]]
+				- [[Enneagram 2]]
+				- [[Enneagram 3]]
+				- [[Enneagram 4]]
+				- [[Enneagram 5]]
+				- [[Enneagram 6]]
+				- [[Enneagram 7]]
+				- [[Enneagram 8]]
+				- [[Enneagram 9]]
+			- **TriTypes**
+				- [[Tritypes]]
+			- [[Wings]]
+		- [[Hippocrates Model]]
+		- [[MBTI-ENNEGRAM]]
+		- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]
+		- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]
+		- **Temprament[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]tled][[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]Type]]
+	- [[Value System][[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]ity(W[[Compendium/xFrameReality(Weed-Rough)/_Deducti[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]rameR[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]])/_Textin[[Compendium/xFr[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]eReality(Weed-Rough)/_Deducti[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]ameRe[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]ractions Are Manipulati[](Compendium/2.%20Archetypes%20Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled.md)I-Hacks.md)icising Everything]]
+			- [[Evil Birth]]
+			- [[Exploit Or Good]]
+			- [[Fighting For Self]]
+		[](Compendium/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled.md)rs]]
+			[[Compendium/xFrameReality(Weed-Ro[](Compendium/2.%20Archetypes%20Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled.md)timidati[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Deduct+Hack]]ality(Weed-Rough)/_Deduction/MBTI-Hacks.md)Fight]] Fingers (E[](Compendium/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks.md)lity([](Compendium/xFrameReality(Weed-Rough)/_Ded[](Compendium/2.%20Archetypes%20Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks.md)			- [](Compendium/2.%20Archetypes%20Personality/xFrameReality(Weed-Rough)/_Deduction/Star%20-%20Temprament.md)pendium/xFrameReality(Weed-Rough)/Manipulations/F[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]	- [[4-Brai[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]
+				- [[4-Brains Cheat Sheet]]
+				- [[ABCD MBTI]]
+		[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]xFrameReality(Weed-Rough)/Manipulations/Fight]]]]
+				- [[Masculine Feminine Funtions]]
+	[[Compendium[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]]
+			- [[Communication Sty[[Compendium/xFr[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]e[[xFrameReality(Weed-Rough)/____Typin[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]] [[Relationship]][[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]People/Communication Style]]on]]
+		- **Communiucation Syles**
+			- [[Direct Indirect]]
+			- [[Systematic Vs Interest Based]]
+		- [[Disorganised Import[[Compendium/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]ty(Weed-Rough)/____Typing People/Com[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]nication Style]]& PARSE OUT LATER)**
+				- [[Enneagram 1]]
+				- [[Enneagram 2]]
+				- [[Enneagram 3]]
+				- [[Enneagram 4]]
+				- [[Enneagram 5]]
+				- [[Enneagr[[Compendium/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]m 9]]
+			- **TriTypes**
+				- [[Trit[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]mprament]]
+		- **Temprament**
+			- [[xFrameReality(Weed-Rough)/_TextingtoMoveLater/U[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]][[Tem[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]xFrameReality(Weed-Rough)[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]Deduction/Star - Temprament]][[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]])/_Te[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]ping People]]**
+	- **[[[](Compendium/2.%20Archetypes%20Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled.md)Weed-Rough)/_Deduction/MBTI-Hacks]]BTI-H[[Compendium/xF[_Ded[](Compendium/2.%20Archetypes%20Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled.md - Temprament]]eReality(Weed-Rough)/_Ded[[Compendium/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]](xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled.md)veLater/Untitled]]-Hacks]]n Nat[[Compendium/xFrameReality(Weed-Rough)/_Deducti[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]rameR[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]](xFrameReality(Weed-Rough[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]Hacks]]uction/Star%20-%20Temprament.md)
+			- [[Indignance]]
+			- [[[xF[[Compendium/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]ed]]- **Ma[[Compendium/xFrameReality(Weed-Rough)/_De[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]ed-Rough)/[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]ndium/xFrameR[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]ognitive Syncronicity**
+	[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]]]nipulations/Fight]]ip work]]
+		- **Self-In[[FrameReality(Weed-Rou[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]] [[Per[[Compendium/xFrameReality(Weed-Roug[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]*4-Brain**
+				- [[4-Brain The[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]] Cheat Sheet]][[Compendium/xFrameReality(Weed-Rough)/Manipulations/Fight]][Attraction Dynamic]]
+			- **Cognitive Functions**
+			[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]		- [[Perception Axis]]
+				- [[Play Sleep Blast Consumers]]
+			- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]
+			- [[Emulation]]
+			- [[Manipulation Tactics]]
+			- [[Patterns MBTI]]
+		[[FrameReality(W[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]eople/Communication Style]][[Flirting]]
+			- [[Relationship]]
+			- [[Unorganised]]
+		- [[Alpha Beta Gamma Delta Omega Sigma]]
+		- **Big 5**
+			- [[Definition]][[F[[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]/____Typing People/Communication Style]]nterest[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]xFrameReality(Weed-Rough)/____Typing People/Communication Style]]cts]]
+			- **Instinctual Variants**
+[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]])**
+				- [[Enneagram 1]]
+				- [[Enneagram 2]]
+				- [[Enneagram 3]]
+				- [[Enneagram 4]]
+				- [[Enneagram 5]]
+				- [[Enneagram 6]]
+				- [[Enneagram 7]]
+				- [[Enneagram 8]]
+				- [[Enneagram 9]]
+			- **TriTypes**
+				- [[Tritypes]]
+			- [[Wings]]
+		- [[MBTI-ENNEGRAM]]
+		- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]
+		- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]
+		- **Temprament**
+			- [[xFrameReality(Weed-Rough)/_TextingtoMoveLater/U[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]][[Tem[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]][Value System]]
+
+%% End W[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled][](Compendium/2.%20Maps%20Of%20People/xFrameReality(Weed-Rough)/_Deduction/Star%20-%20Temprament.md)]] R[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]_Text[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/Star - Temprament]]orks Of Reality/_Deductio[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]eReality(Weed-Rough)]]w[[Compendium/xFrameReality(Weed-Roug[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]rameReality(Weed-Rough)/_De[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]uction/MB[[Compendium/[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]Deduction/Star - Temprament]]**Theories**
+			- [[Al[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]- [[Chamaleon Effect]]
+			- [[Criticising Everything]]
+[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_TextingtoMoveLater/Untitled]]ing For Self]]
+			- [[Indignance]]
+			- [[Judement to Please Self]]
+			- [[Liars]]
+			- [[Pity]]
+	- **Manipulations**
+		- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/Manipulations/Fight]]
+		- [[Intimidation]]
+	[[_ Tree Of Life/(Rough)(Weeds)Frameworks [[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]]
+		- [[Wrap A[[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/Manipulations/Fight]]gers (EXPLORE)]]
+	- **Nurture (40%)**
+		- **Cognitive Syncronicity[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/Manipulations/Fight]]timate relationship work]]
+		- **Self-Intimacy**
+			- [[4-Pillars Of Self-Intimacy]]
+			- [[Relationship Self-Intimacy]]
+	- [[Persona System]]
+	- **Personality Type (60%)**
+		- **_Myers-Briggs**
+			- **4-Brain**
+				- [[4-Brain Theory Cheat]]
+				- [[4-BrainDiagram.canvas]]
+				- [[4-Brains Cheat Sheet]]
+				- [[ABCD MBTI]]
+			- **[[16 MBTI]]**
+			- [[Attraction Dynamic]]
+			- **Cognitive Functions**
+				- [[Judging Axis]]
+				- [[Masculine Feminine Funtions]]
+				- [[Perception Axis]]
+				- [[Play Sleep Blast Consumers]]
+			- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]
+			- [[E[[_ Tree Of Life/(Rough)(Weeds)Frameworks Of Reality/____Typing People/Communicati[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/____Typing People/Communication Style]][[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]TI]]
+			- **Relatable**
+				- [[Flirting]]
+			- [[Relationship]]
+			- [[Unorganised]]
+		- [[Alpha Beta Gamma Delta Omega Sigma]]
+		- **Big 5**
+			- [[Definition]]
+		- **Communiucation Syles**
+			- [[Direct Indirect]]
+			- [[Systematic Vs Interest Based]]
+		- [[Disorganised Important]]
+		- **Ennegram**
+			- [[ENNEGRAM]]
+			- [[Instincts]]
+			- **Instinctual Variants**
+				- [[Identifier]]
+				- [[Types]]
+			- **Nine Types (EDIT & PARSE OUT LATER)**
+				- [[Enneagram 1]]
+				- [[Enneagram 2]]
+				- [[Enneagram 3]]
+				- [[Enneagram 4]]
+				- [[Enneagram 5]]
+				- [[Enneagram 6]]
+				- [[Enneagram 7]]
+				- [[Enneagram 8]]
+				- [[Enneagram 9]]
+			- **TriTypes**
+				- [[Tritypes]]
+			- [[Wings]]
+		- [[MBTI-ENNEGRAM]]
+		- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]
+		- [[Star - Temp[[_ Tree Of Life/(Rough)(Weeds)Frameworks Of Reality/_Deduction/MBTI-Hacks]]*Temp[[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]e/(Rough)[[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]]rks Of Reality/_Deduction/Star - Temprament]]led]]
+		- [[Tempram[[Compendium/2. Archetypes Personality/xFrameReality(Weed-Rough)/_Deduction/MBTI-Hacks]] Reality/_TextingtoMoveLater/Untitled]]

@@ -1,0 +1,1 @@
+MC does something in an x manner, fl in an seperate scene is trying to emulate and inculcate that new way and mimic it.

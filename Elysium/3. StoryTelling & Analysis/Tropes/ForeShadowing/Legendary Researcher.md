@@ -1,0 +1,3 @@
+Kashiwagi Rein - A player in Darwin's Game who is an information broker. Her sigil is analogous to Laplace's demon, a hypothetical being that knows the exact location and momentum of every atom in the universe.
+[She talks about famous mathematician of earth real world but in our story we can introduce a legendary magic researcher of our fantasy world a way to create rich worldbuilding.
+Other than our legendary magic researcher we can have some of his sayings about magic in introduction of character]

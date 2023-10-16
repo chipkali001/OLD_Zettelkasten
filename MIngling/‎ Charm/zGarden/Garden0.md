@@ -1,0 +1,38 @@
+%% Begin Waypoint %%
+- **[[Garden0]]**
+	- **_Kota**
+		- [[Full Guide]]
+		- [[Why Not Kota]]
+	- [[Baba]]
+	- **Connoisseur**
+		- [[MIngling/‎ Charm/Connoisseur/Anime]]
+		- [[Dance]]
+		- [[Dungeon & Dragons]]
+		- [[MIngling/‎ Charm/Connoisseur/Food]]
+		- [[Movies]]
+		- [[MUSIC]]
+		- [[Novel]]
+		- [[Video-Games]]
+		- [[Webseries]]
+	- [[Conversation Direction]]
+	- [[Garden 1]]
+	- [[Garden0]]
+	- [[zGarden]]
+	- **Meaning, Rules, SPirituality**
+		- [[Meaning 01]]
+		- **Rules & Spirituality**
+			- [[Alex Homori]]
+			- **Break Inertia**
+				- [[Clips Energy Words]]
+				- [[Sleep is just tool. Not comfort seek]]
+				- [[Terror]]
+				- [[What Man You Want To Be For Your Wife]]
+				- [[You're Not Past]]
+			- [[Compilation Self-Repeat]]
+			- [[Daily Repeat (OLD)]]
+			- [[Osho+Shwetab]]
+		- [[Wants From Pik]]
+	- [[Memory Lanes]]
+	- [[TimeBlocking database]]
+
+%% End Waypoint %%

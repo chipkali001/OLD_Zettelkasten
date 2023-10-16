@@ -1,0 +1,10 @@
+#Wound/Crime-Victim
+#Wound/Disabled-Disfigured
+#Wound/Failure-Mistakes
+#Wound/Injustice-Hardship
+#Wound/Betrayal
+#Wound/Pushed-Around
+#Wound/Isolation
+#Wound/Shame
+#Wound/Humiliation
+#Wound/Anger-Narcissist

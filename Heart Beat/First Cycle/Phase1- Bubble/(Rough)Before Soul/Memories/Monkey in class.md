@@ -1,0 +1,1 @@
+One time in class 2/3/4 a monkey entered our class through windome. our whole class ran out and he also stole lunch of a kid. (My memory is little blur now). We were small ducklings

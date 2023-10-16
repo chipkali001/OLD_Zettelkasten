@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "zBackend/Media",
+  "newFileLocation": "current",
+  "vimMode": false,
+  "showUnsupportedFiles": true
+}

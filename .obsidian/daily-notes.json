@@ -1,0 +1,5 @@
+{
+  "format": "DD MMMM YYYY",
+  "folder": "zBackend",
+  "template": "zBackend/Template/Journal Daily"
+}

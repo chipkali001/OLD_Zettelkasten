@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"text","text":" NF","id":"4226e36fa84b422b","x":-220,"y":-100,"width":89,"height":60},
+		{"type":"text","text":" ST","id":"9a26ebd9e0148b1d","x":-220,"y":-40,"width":89,"height":60},
+		{"type":"text","text":"NT","id":"8e1ce13faf96dff6","x":-220,"y":280,"width":89,"height":60},
+		{"type":"text","text":"SF","id":"afc6a337ff6d537c","x":-220,"y":340,"width":89,"height":60},
+		{"type":"text","text":"E","id":"4f9d235c1e0fec5e","x":-400,"y":421,"width":59,"height":60},
+		{"type":"text","text":"I","id":"2b9138ca35e89843","x":-400,"y":180,"width":59,"height":60},
+		{"type":"text","text":"E","id":"b506068723ceaf41","x":-400,"y":41,"width":59,"height":60},
+		{"type":"text","text":"I","id":"8d34c3bae418d92a","x":-400,"y":-200,"width":59,"height":60},
+		{"type":"text","text":"P","id":"16bf3e78c89f7006","x":-20,"y":41,"width":59,"height":60},
+		{"type":"text","text":"J","id":"0b35c7b7a30087bf","x":-20,"y":180,"width":59,"height":60},
+		{"type":"text","text":"P","id":"3c0a24b9560ec63b","x":-20,"y":421,"width":59,"height":60},
+		{"type":"text","text":"J","id":"87babcb57e5602a8","x":-20,"y":-200,"width":59,"height":60},
+		{"type":"text","text":"Different center\n1)  Same slope/flow/direction) .   (ego - superego)\n2)  OPPOSITE slope/flow/direction).  (ego - subconscious)\n\n","id":"fa7fae49e3a4e11e","x":-760,"y":-40,"width":290,"height":280},
+		{"type":"text","text":"Same center CONFJUCATES are Ego & Shadow\n\n\n","id":"df561ea6e7659ca2","x":160,"y":41,"width":250,"height":111}
+	],
+	"edges":[
+		{"id":"9d7496fff5503470","fromNode":"8d34c3bae418d92a","fromSide":"right","toNode":"4226e36fa84b422b","toSide":"left"},
+		{"id":"0b6b47af84753962","fromNode":"b506068723ceaf41","fromSide":"right","toNode":"4226e36fa84b422b","toSide":"left"},
+		{"id":"13ec80ca44663088","fromNode":"87babcb57e5602a8","fromSide":"left","toNode":"4226e36fa84b422b","toSide":"right"},
+		{"id":"4f7e7fdcb949a695","fromNode":"16bf3e78c89f7006","fromSide":"left","toNode":"4226e36fa84b422b","toSide":"right"},
+		{"id":"875f0f4fa480a889","fromNode":"8d34c3bae418d92a","fromSide":"right","toNode":"9a26ebd9e0148b1d","toSide":"left"},
+		{"id":"ed826d134ca4c528","fromNode":"b506068723ceaf41","fromSide":"right","toNode":"9a26ebd9e0148b1d","toSide":"left"},
+		{"id":"38612a6e42278b58","fromNode":"87babcb57e5602a8","fromSide":"left","toNode":"9a26ebd9e0148b1d","toSide":"right"},
+		{"id":"0f47d264b393e87e","fromNode":"16bf3e78c89f7006","fromSide":"left","toNode":"9a26ebd9e0148b1d","toSide":"right"},
+		{"id":"ed4b205f71edd51f","fromNode":"4f9d235c1e0fec5e","fromSide":"right","toNode":"8e1ce13faf96dff6","toSide":"left"},
+		{"id":"9ea85158a96edfc4","fromNode":"4f9d235c1e0fec5e","fromSide":"right","toNode":"afc6a337ff6d537c","toSide":"left"},
+		{"id":"95610bb96ec8f798","fromNode":"2b9138ca35e89843","fromSide":"right","toNode":"8e1ce13faf96dff6","toSide":"left"},
+		{"id":"3ce87043e4b15e17","fromNode":"2b9138ca35e89843","fromSide":"right","toNode":"afc6a337ff6d537c","toSide":"left"},
+		{"id":"79b26487735c77b4","fromNode":"3c0a24b9560ec63b","fromSide":"left","toNode":"8e1ce13faf96dff6","toSide":"right"},
+		{"id":"19186686dd044f3c","fromNode":"3c0a24b9560ec63b","fromSide":"left","toNode":"afc6a337ff6d537c","toSide":"right"},
+		{"id":"0b71d728ef59a631","fromNode":"0b35c7b7a30087bf","fromSide":"left","toNode":"8e1ce13faf96dff6","toSide":"right"},
+		{"id":"ff7e8a76f8c1d891","fromNode":"0b35c7b7a30087bf","fromSide":"left","toNode":"afc6a337ff6d537c","toSide":"right"}
+	]
+}

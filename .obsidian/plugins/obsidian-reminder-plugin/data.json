@@ -1,0 +1,23 @@
+{
+  "scanned": true,
+  "reminders": {},
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 5 minutes\nIn 15 minutes\nIn 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "DD-MMM-YYYY",
+    "dateTimeFormat": "DD-MMM-YYYY HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

@@ -1,0 +1,1 @@
+One time during school fest. Where you had to sell tickets for entry + lucky draw to your aunties and neighbous. The person who sells a lot of ticket used to get a reward.  I ayush and other friends were playing volleyball.

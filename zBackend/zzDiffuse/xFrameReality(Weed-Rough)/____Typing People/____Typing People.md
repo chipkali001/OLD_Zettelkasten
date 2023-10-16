@@ -1,0 +1,14 @@
+%% Begin Waypoint %%
+- **[[____Typing People]]**
+	- [[____Typing People]]
+	- [[zBackend/zzDiffuse/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]- **[[____Typing People]]**
+	- [[____Typing People]]
+	- [[Wuwei/zzDiffuse/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]*[[____Typing People]]**
+	- [[____Typing People]]
+	- [[Wuwei/zzReOrganise/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]ple]]**
+	- [[____Typing People]]
+	- [[Compendium/2. Maps Of People/Typing/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]ing People]]**
+	- [[____Typing People]]
+	- [[Compendium/2. Maps Of People/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]yping People]]**
+	- [[____Typing People]]
+	- [[Compendium/2. MapsOfPeople/xFrameReality(Weed-Rough)/____Typing People/Communication Style]]

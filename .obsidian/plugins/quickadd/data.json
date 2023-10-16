@@ -1,0 +1,397 @@
+{
+  "choices": [
+    {
+      "id": "fb6a5613-8b18-4b80-985a-2faadbbffaf9",
+      "name": "New task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Journal/Daily/{{date}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "zBackend/Template/Journal Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{VALUE:Task name}} {{VALUE:⏫,🔼, ,🔽}} 📅 {{VDATE:Due date, YYYY-MM-DD}} \\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Task",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "04464880-0a0e-44cb-96c9-62288924764d",
+      "name": "Book New",
+      "type": "Template",
+      "command": true,
+      "templatePath": "zBackend/Template/Book Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Compendium/1. Books"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "1f72f97a-f0ea-4b1a-b246-5a50c7a7aa46",
+      "name": "Ink & Imagination",
+      "type": "Macro",
+      "command": true,
+      "macroId": ""
+    },
+    {
+      "id": "a5a7f11e-20e8-4d2a-89df-f4c427caf3c2",
+      "name": "Novel (Ink&Imagination)",
+      "type": "Macro",
+      "command": true,
+      "macroId": "fb49d0f7-2b7d-471f-bf8a-21e3f3e494e8"
+    },
+    {
+      "id": "4e75725a-44e5-4803-934e-0349ea1b574e",
+      "name": "Waypoint",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "%% %%\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Monkey Test",
+      "id": "b16844d6-ce73-4576-a080-14c0ac895ef1",
+      "commands": [],
+      "runOnStartup": true
+    },
+    {
+      "name": "Manga - Ink & Imagination",
+      "id": "85a63b75-8882-4e25-8709-4cb4f2fb1fca",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "Poetry - Ink & Imagination",
+      "id": "28361543-b271-4b76-b13a-0f705440d060",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "Novel - Ink & Imagination",
+      "id": "e4b809d1-6b51-45ea-802d-8f01da42ea06",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "Novel (Ink&Imagination)",
+      "id": "fb49d0f7-2b7d-471f-bf8a-21e3f3e494e8",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "288a6350-a1b0-48f9-9953-15657ff70774",
+          "choice": {
+            "id": "08c609b6-3794-43eb-85c6-f8093faddf11",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Wuwei/‎ Work Flows/Ink & Imagination.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- [ ] [[{{VALUE:Title}}]]"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## Novel",
+              "insertAtEnd": true,
+              "considerSubsections": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "eb8aedd9-643b-4bba-b77d-3e9d1341d0e4",
+          "choice": {
+            "id": "dce91bbb-faa9-402e-8418-cf5020ab380e",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "zBackend/Template/Ink & Imagination Empty.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:Title}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Compendium"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Add Frontmatter To File",
+          "type": "NestedChoice",
+          "id": "d4aabe1b-56d9-4655-9315-48b1eb5acf6d",
+          "choice": {
+            "id": "e1955e53-e963-4067-b04d-b076ed5748fe",
+            "name": "Add Frontmatter To File",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Compendium/{{VALUE:Title}}",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "---\nCreator: {{VALUE:Creator-Author}}\nFinishOn: \nRating: \n---\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Template (Capture->Template-->Capture)",
+      "id": "4b48608e-a353-49cf-b1d7-bf4e39a17471",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "ecd72f51-5769-4208-b448-0df88f12fb03",
+          "choice": {
+            "id": "4372283e-07ce-41ef-8ba2-9663f4d6e19e",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "efc6b044-1d6d-4c1f-8f37-688e6fa3fd7d",
+          "choice": {
+            "id": "685c3fd5-e11d-48f8-8bb3-5c74d7f84e44",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "08d796d1-7b26-420f-87ec-1909402897cd",
+          "choice": {
+            "id": "7be83950-9043-47af-8342-3eac3b8381d2",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "Abc: {{VALUE:ABC}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "QuickAddHere: ",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "0.21.0",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

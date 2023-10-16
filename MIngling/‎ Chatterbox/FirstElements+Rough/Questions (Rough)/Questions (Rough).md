@@ -1,0 +1,1 @@
+Transfer stuff from question folder into above 6 folders created

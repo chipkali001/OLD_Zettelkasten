@@ -1,0 +1,2 @@
+Spirits will be ruler of natural order.
+They are what mainatain order of nature, otherwise order of chaos (demons) will surely have deefeated frail creatures easily. it’s Spirits who rules , creates, protect Nature

@@ -1,0 +1,2 @@
+Monkey-Priyam baby kill get down bed, flying from tree to tree, using jumping & body automatically guiding using wings when pointed in direction of high speed. like suppose you push on tree to gain momentum and jumped up the wings will boost you up to certian height.
+Crossed that bridge where below water spread & felt like will break but willnt & only small strip of bridge open, rest was covered.

@@ -1,0 +1,1 @@
+Telling STORY with OTHER GENDER will maybe ENHANCE ATTRN IF you just make it feel like you SEE OTHER GENDER friends platonically but they don’t

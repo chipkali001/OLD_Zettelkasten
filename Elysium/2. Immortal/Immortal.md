@@ -1,0 +1,90 @@
+%% Begin Waypoint %%
+- **[[Immortal]]**
+	- [[Immortal]]
+	- **01 Universe**
+		- **_IMMORTAL SNEAKING**
+			- [[Zac Alsop]]
+		- **00 History**
+			- [[History 01]]
+		- **00 Random+Genral**
+			- [[Elysium/2. Immortal/04 Skeleton/Untitled]]
+		- [[00 Uncategorised]]
+		- **01 World Building**
+			- [[01 Scroll  (World Formation)]]
+			- [[02 WorldBuilding Beauty]]
+		- **02Wuxia, Xianxia & Xuanhuan**
+			- [[02 Wuxia, Xianxia & Xuanhuan]]
+		- **03 Mythology**
+			- **[[Greek]]**
+			- [[Mythologies]]
+			- [[Stories]]
+		- **04 Concepts**
+			- [[04 Magic Systems]]
+			- [[Different Planes]]
+			- [[Species]]
+		- **05 Monsters**
+			- [[Monster 01]]
+		- **06 Chracter**
+			- [[Quirks]]
+		- **07 Memories As Tools**
+			- [[Elysium/2. Immortal/01 Universe/07 Memories As Tools/NOTE]]
+		- **08 Politics**
+			- [[Elysium/2. Immortal/04 Skeleton/Untitled]]
+		- [[Deadly Sin]]
+		- **Techniques**
+			- [[Sea Navigation]]
+	- **02 Experience**
+		- **[[Death-Pain]]**
+		- **[[Jab We Met]]**
+		- **[[Pushed-Around]]**
+		- **Suprise-1stTime Reactions**
+			- [[Gore First Time]]
+			- [[Elysium/2. Immortal/04 Skeleton/Untitled]]
+		- [[Uncategorised]]
+	- **03 Works**
+		- [[Munna Bhai MBBS]]
+		- [[Ra. One]]
+	- **Skeleton**
+		- **Experience**
+			- [[Emotions]]
+			- [[Human]]
+			- [[Racist]]
+			- [[Struggle]]
+			- [[Wounds]]
+		- [[General]]
+		- [[STORY]]
+		- **Universe**
+			- [[Artifact]]
+			- **Beauty**
+				- [[City Design]]
+			- [[Conflicts]]
+			- [[Creation]]
+			- [[Creatures]]
+			- [[Culture]]
+			- [[Delicacy]]
+			- [[Dilemma]]
+			- [[Disasters]]
+			- [[Dungeon]]
+			- [[Energy]]
+			- [[Event]]
+			- [[Experience]]
+			- [[Fields]]
+			- [[Herbs]]
+			- [[Identity]]
+			- [[Magic]]
+			- [[Nature-Law]]
+			- [[Origin Ranking]]
+			- [[Planes & Realms]]
+			- [[Proffession]]
+			- [[Space-Time]]
+			- [[Elysium/2. Immortal/04 Skeleton/Universe/Timeline]]
+		- [[Elysium/2. Immortal/04 Skeleton/Untitled]]
+	- **Stories**
+		- [[Culprit Caught]]
+		- [[Cute Story]]
+		- [[Humiliation, Aloneness]]
+		- [[Mummy]]
+		- [[Scam]]
+		- [[Sudden Loss]]
+
+%% End Waypoint %%
