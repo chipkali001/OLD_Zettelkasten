@@ -22,6 +22,6 @@ The old feeling of nervousness,  oh shit i will be surrounded by so many unknown
 + Bhot Jaldi aa gye (the kid stanidng in front of canteen at 7:45)  - Kuch kuch ho rha hain REPEAT what guy with his FRIEND   
 
 ```
-
+16OCT - Daksh talk SOUL ascension 
 
 

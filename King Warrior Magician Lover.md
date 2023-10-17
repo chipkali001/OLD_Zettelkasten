@@ -622,8 +622,6 @@ Getting together w/ boys for abc wasn't fun, vacation to ABC felt flat, ...
 We have an INSTINCTUAL KILLER instinct.
 SOME PEOPLE REFUSE to believe HUMAN AGGRESSIVNESS is INNATE & wish to social-engineer out of BOYS. 
 
-
-
 Shadow warrior has terrorized world for century, Their fury can sweep across entire continent like a plague, it ends by destroying it's host.
 "Those who live by the sword die by the sword"
 (theme of shooting incidents where a man open-fires on little children -- then he goes to shooting himself in temp)
@@ -677,6 +675,9 @@ THEY LOOK **POSSESSED by WARRIOR ENERGY** - **PROTECTING BOUNDARIES, ATTACKING**
 
 
 
+### Pseduo-Speciation 
+This phenomemon is reason WHY human FIGHT w/ their own kind in the way HUMANS do. 
+Seeing tthemselves as the 'The People' 'chosen one' and other as subspecies of human
 
 
 

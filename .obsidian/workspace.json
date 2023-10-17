@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "82cbcf78e290494a",
+            "id": "e2f5e7bd68b8b24e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+                "file": "How To Actually Things - Unlock Productivity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "2d387728a75df704",
+            "id": "2b252d4f4804fc96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "‎ Religion/Instinctual Mind.md",
+                "file": "Heart Beat/Timeline.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+                "file": "How To Actually Things - Unlock Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+                "file": "How To Actually Things - Unlock Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md"
+                "file": "How To Actually Things - Unlock Productivity.md"
               }
             }
           }
@@ -223,14 +222,27 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "dbfolder:Create a new database table": false,
+      "notion-like-tables:Create new loom": false,
+      "cmdr:Periodic Notes: Open weekly note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "82cbcf78e290494a",
+  "active": "e2f5e7bd68b8b24e",
   "lastOpenFiles": [
     "King Warrior Magician Lover.md",
-    "‎ Religion/Instinctual Mind.md",
+    "How To Actually Things - Unlock Productivity.md",
+    "Heart Beat/Timeline.md",
     "DashBoard.md",
+    "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+    "Heart Beat/‎ Cycles Of The Day/‎ Cycles Of The Day.md",
+    "‎ Religion/Instinctual Mind.md",
     "z‎Work Flows/Personality System/Personality System.md",
     "Compendium/Compendium.md",
     "Compendium/2. InterPersonal/NLP/NLP.md",
@@ -251,10 +263,6 @@
     "‎ Religion/Shards",
     "‎ Religion/Shards/Cycles Of The Day (EXPLAINED).md",
     "MIngling/Agrim Singh.md",
-    "Wuwei/Wuwei.md",
-    "Wuwei/Untitled Kanban.md",
-    "Energies Cultivation.md",
-    "Untitled.md",
     "Dashboard 1.canvas",
     "zBackend/Media/Pasted image 20231015121716.png",
     "Mega-Vault",
