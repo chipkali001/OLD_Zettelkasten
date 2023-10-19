@@ -1,6 +1,6 @@
 Tags: #School Robotics  
 
-![[Heart Beat/First Cycle/Phase1- Bubble/(Rough)Before Soul/Memories/Fight#Taekowndo Begin]]
+![[Heart Beat/First Cycle/Phase1- Reign/(Rough)Before Soul/Memories/Fight#Taekowndo Begin]]
 
 Again coming back to the story i joined taekowodo but it was really boring i was expecting to become Bruce Lee and i will get amazing moves but it was not that flashy everything felt boring and even the kicks they were teaching felt showy and amazing but i didn't felt they will help in class fights or defeating saransh bhiya but whenni was bored opposite to the taekwondo room was science lab and in there few seniors used to do robotics and i thought it was so cool. Itill that point i ha dreamt that i will build time machine, iron man Armor and find a way for humans to f immortal cause we can uz machine if one part get rusty we can replace it so it's so simple. I saw that maybe robotics will help me to enter that world but that was a thing only seniors who had robotics kit could do . So i can only look from afar. 
 
