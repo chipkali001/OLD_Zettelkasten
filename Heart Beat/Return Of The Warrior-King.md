@@ -1,4 +1,4 @@
-Expiation, the Christian doctrine of Christ <mark style="background: #FF5582A6;">DYING</mark> to absolve the world's <mark style="background: #FF5582A6;">SINS</mark>.
+The Christian doctrine of Christ <mark style="background: #FF5582A6;">DYING</mark> to absolve the world's <mark style="background: #FF5582A6;">SINS</mark>.
 
 **17OCT** - DATE CREATED
 
@@ -16,3 +16,29 @@ FOR DOING GREAT-TASK of FINAL INTEGRATION of VALUES in MY LIFE & BEGIN - it has 
 ## 18 Oct
 ohh somehow staying awake - using pillow to support self - dopominating on loud motivational music - NO! READ THE BOOK w/ VIGOUR - RIPP-OFF things you want - AND MOVE ON.     
 DON'T HOLD BACK even a little =- don't be like - OH GET UP EARLY for CLASS ATTEND - what if SLEEP feel - TODAY is LAST DAY - you consciousness WILL DIE after TODAY make self proud BEFORE stumbling to PIKA ENERGY while SLEEPING
+## 19 Oct
+Well my plan was to
+1) Add Fleeting Notes to PC
+2) Create Ambrosia vault & write vision for exhilirating future IN it
+3) Schedule Create
+
+In fleeting note - i was adding element of game-making i did to notes - fleeting note attempt was at revitatlizing memory - what happene d next was THE OMEGA FOLDER files online were empty - it hurted me so much that now i couldn't even 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

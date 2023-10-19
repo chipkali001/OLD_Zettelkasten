@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f1e7168aa0be8b",
+        "id": "6a17496d41f7b38a",
         "type": "tabs",
         "children": [
           {
-            "id": "8655ae2d85cabdf0",
+            "id": "146502ebb2c8641d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "King Warrior Magician Lover/King Warrior Magician Lover.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de601e38c381345b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "‎ Quill's Pavilion/‎Primer‎/0. Hinglish.md",
+                "file": "King Warrior Magician Lover/King Warrior Magician Lover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "‎ Quill's Pavilion/‎Primer‎/0. Hinglish.md",
+                "file": "King Warrior Magician Lover/King Warrior Magician Lover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "‎ Quill's Pavilion/‎Primer‎/0. Hinglish.md"
+                "file": "King Warrior Magician Lover/King Warrior Magician Lover.md"
               }
             }
           }
@@ -200,22 +213,32 @@
       "cmdr:Periodic Notes: Open weekly note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
-      "obsidian-custom-frames:Open ChatGPT": false,
-      "periodic-notes:Open today": false
+      "obsidian-custom-frames:Open ChatGPT": false
     }
   },
-  "active": "8655ae2d85cabdf0",
+  "active": "146502ebb2c8641d",
   "lastOpenFiles": [
+    "Energies Cultivation.md",
+    "Heart Beat/Return Of The Warrior-King.md",
+    "‎ Quill's Pavilion/‎Primer‎/0. Hinglish.md",
     "DashBoard.md",
+    "Heart Beat/Second Cycle/Phase4 - Rebirth/Untitled.md",
+    "‎ Quill's Pavilion/‎ Ink & Imagination/Poetry/Kabhi Jo Badal Barse.md",
+    "‎ Quill's Pavilion/‎ Ink & Imagination/Poetry/Mujhko barsaat.md",
+    "‎ Quill's Pavilion/‎Primer‎/2. Dialogues1 (Poetic (Hindi-Urdu)).md",
+    "‎ Quill's Pavilion/‎Primer‎/Schedule.md",
+    "‎ Quill's Pavilion/‎ Ink & Imagination/Poetry/Humari Aadhuri Kaahani.md",
+    "‎ Quill's Pavilion/‎ Ink & Imagination/Poetry/Poetry.md",
+    "‎ Quill's Pavilion/‎ Ink & Imagination/Poetry/Piya Aaye Na.md",
     "MIngling/‎ Story-Telling/‎ Story-Telling.md",
     "‎ Quill's Pavilion/‎Primer‎/1. Poetic Hindi - Urdu.md",
     "MIngling/‎ Story-Telling/____Making Game.md",
     "zBucket List/zBucket List.md",
     "Heart Beat/Timeline.md",
     "MIngling/‎ Story-Telling/Bag Throw.md",
-    "‎ Quill's Pavilion/‎Primer‎/0. Hinglish.md",
     "King Warrior Magician Lover/King Warrior Magician Lover.md",
     "Compendium/Compendium.md",
     "Compendium/2. InterPersonal/Typing/1. Mangolian Mindset.md",
@@ -224,18 +247,8 @@
     "‎ Mind-Body/2. Vocal Mastery/Pronunciation-Words.md",
     "Elysium/1. Trexia/1. Trexia.md",
     "Elysium/2. Immortal/2. Immortal.md",
-    "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
-    "Heart Beat/EXPITATION & Return Of The Warrior-King.md",
-    "King Warrior Magician Lover/The King Within.md",
-    "King Warrior Magician Lover/The Warrior Within.md",
-    "King Warrior Magician Lover/KWML.md",
     "King Warrior Magician Lover",
-    "How To Actually Do Things - Unlocking ULTIMATE ORDER.md",
-    "Elysium/2. Immortal/01 Universe/01 Universe.md",
-    "Elysium/2. Immortal/01 Weapons & Tools/01 Weapons & Tools.md",
-    "Elysium/2. Immortal/01 Weapons & Tools/GreatSword.md",
     "Elysium/2. Immortal/01 Weapons & Tools",
-    "‎ Quill's Pavilion/‎Primer‎/‎ Vocabulary/Words Vocabulary/1. Words (Major)/V1 (143 Words).md",
     "‎ Religion/Shards",
     "Dashboard 1.canvas",
     "zBackend/Media/Pasted image 20231015121716.png",
