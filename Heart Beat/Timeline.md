@@ -21,7 +21,14 @@ The old feeling of nervousness,  oh shit i will be surrounded by so many unknown
 + SHARD (Self Identity)
 + Bhot Jaldi aa gye (the kid stanidng in front of canteen at 7:45)  - Kuch kuch ho rha hain REPEAT what guy with his FRIEND   
 
++ 16/17/18 October
++ Instinctual Mind & (Misery(Past) --> Present&Future)
++ Earlier i was writting to self - that reread old misery sad-agrim TEXt o summon strength like. OH LOOK - i stood up even when things were, oh and this and that. DESPITE my temprament I DID, BUT NOW weilded with INSTINCUTLA MIND KNOWLEDGE - i can just use IT FOR SUMMONING POWER
 ```
 16OCT - Daksh talk SOUL ascension 
 
 
+
+## How I have changed compared to last December AGRIM
+READ MISERY
+Shame Coversion -> Storm WARRIOR ENERGY

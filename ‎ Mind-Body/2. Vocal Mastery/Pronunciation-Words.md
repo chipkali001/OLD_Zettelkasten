@@ -40,7 +40,9 @@ Vulenrablity
 Utility
 Intimidation/Intimidate
 conscientiousness and I will 
-
+you reap what you sow
+pathetic / disappointing 
+Darshan <-- Matriye Priye Darshani
 
 Nishkrsh
 Dkaat

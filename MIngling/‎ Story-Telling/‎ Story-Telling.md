@@ -1,6 +1,10 @@
 Here Just Write Stories.
 Now on How you are suppose to bring them up NATURALLY use CHATTERBOX
 
+> [!Example] A GOLDEN RULE: To leave an incomplete image of oneself 
+> & not only that - leave lots of subhint.
+> Think about it & Master MOON mysetery hack
+
 > [!Attention] Make THEM reflect your MISCHIVEOUSNESS-WACKYNESS along with your CUNNING
 > - I don't know why BUT mere dimag mein **==khurafat==** machi ki ASHISH ka bag **chupaeh hain**
 > - Harsh ne pucha - tumne ashish ka bag chupaya

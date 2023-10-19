@@ -1,3 +1,31 @@
+First talk of Physical charactertic of pass - didn't fit in pocket - you have to hang it on neck - Mein isse nhi use kr rha ~~latka ke ja rha~~ (INTERNAL MOCKERY)
+**Apparently somya's satyagrah has ended (laugh earn) , she told me to take the pass - mujhe pass ki jarrurat nhi uski**
+Now it's ironic what happened next (SHOW AS if you were GOING TO LOOSE - but smoothly exit that out)
+I went only few steps & guess who came out?
+**Sports Teacher** - he was walking inside the corridor 
+PROBLEM WASN'T JUST ME NOT HAVING PASS?
+When he will ask me - which teacher- can't lie - sports teacher aware which teacher class TO CATCH BUNKING KIDS - they'll ask name of teacher 
+I DID ONLY THING I COULD
+Hamari aankehin mli
+I SMILED  said GOOD MORNING SIR 
+before he could say anything - i hurried my pace - duck - touched his feet.
+Ek last baar hlka phir see bow aur then i
+KEPT WALKING 
+
+
+Somya ask - BAG?
+I said i went there to drink water --> A Section ka games period hain. 
+AND tumhara satyagrah khatam hogya hain to jao (I didn't said it likt hat - i am telling you the essence)
+
+
+
+> [!Attention] MAKE IT LOOK SMOOTH-ELEGANT.  Make them expect you are going to get beaten - SMILE ISN'T TO CHARM - but in SUBMISSION
+
+
+Tell encounter 
+I 
+I 
+
 TELL AGE
 I dismissed 
 Now sitting down

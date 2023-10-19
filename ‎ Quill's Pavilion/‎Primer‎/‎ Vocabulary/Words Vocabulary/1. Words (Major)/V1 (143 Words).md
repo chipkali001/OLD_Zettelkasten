@@ -8,7 +8,8 @@ Interweaving/fusion/amalgamation/choesion/convergence
 takes **tremendous** effort vs takes **lot of** effort
 
 gush vs flow
-
+Rabid
+Rammpant
 Fervor
 
 Jarring ( creatures that jarrs the imagination lurks in the deep sea)

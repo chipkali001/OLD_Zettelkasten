@@ -21,13 +21,18 @@ ALONG WITH THE
 7. ****INITIATE POETRY SYSTEM****
 	Urdu-Hindi Poetic Voc** *MAKES YOU INSTANTLY **INCREDIBLY FUNNY*** (Jazbaat, Alfaaz) = 
 8. cognitivetype.com & sociotype.com
-9. VAASTE song - body movements -SEARCH NET for BODY MOVEMENTS practice- sit, walk, normal stuff IN TWO STYLES (1) FORMAL- ELEGANT WAY (2) ENERGETIC-WAVY way like Vaaste Song MC
-10. WHISTLE
-11. Each & Every VIKAS talk but with Shubhankar agrim. 
-12. Analyze & Relate TO BOOKS & COURSE READ ABOVE
+9. ==**HOW TO GIVE LECTURE COURSES**== TEACHING WILL BE -  YOUR GREATHER STRENGTH - You can earn <mark style="background: #D2B3FFA6;">everyone & pika admiration THROUGH TEACHING</mark> - to bee seen as <mark style="background: #ABF7F7A6;">SPIRTUAL FIGURE by PIKA</mark> - the reason why when you tried explaining to MOM of COGNITIVE FUNCTION & just SUMMED SO SO SO complex thing into just 25-30minute thing IS CAUSE - YOU DIDN'T KNEW how much it TAKES to GIVE LECTURE ON SOMETHING - YOU MAY HAVE to SPEND LOTS & LOTS of HOURS to PREPARE for LECTURE OF ALL TOPICS - BUT it will
+	1. BE WORTH IT
+	2. Gain admiration for Worldy Knowledge
+	3. DARK - **Hack THE PHENOMENON where ONE admires & GETS IMPRESSED by THOSE WHO TEACH - like even MUNDANE talk OF JORDAN-PETERSON each for some reason HOLDS VALUE for you - little to little opinion on most mundane stuff - you'll watch if PRESENTED** 
+	4. DARK - You'll gain POWER to tell stuff in an ORDER & WAY that they will think -  YOU KNOW IT ALL - So wise
+10. VAASTE song - body movements -SEARCH NET for BODY MOVEMENTS practice- sit, walk, normal stuff IN TWO STYLES (1) FORMAL- ELEGANT WAY (2) ENERGETIC-WAVY way like Vaaste Song MC
+11. WHISTLE
+12. Each & Every VIKAS talk but with Shubhankar agrim. 
+13. Analyze & Relate TO BOOKS & COURSE READ ABOVE
 	1. **Trash Taste**
 	2. Torq & Fire, 
-13. **DISCORD ANALYZE** - Lots & Lots of ShiboAres & Inc(penguin photo - talked of zetelkasten, memory mehtods,...) MESSAGE **rich in** [[2. Infinite Conversation (KNOWLEDGE SHARE)]] 
+14. **DISCORD ANALYZE** - Lots & Lots of ShiboAres & Inc(penguin photo - talked of zetelkasten, memory mehtods,...) MESSAGE **rich in** [[2. Infinite Conversation (KNOWLEDGE SHARE)]] 
 	**TOPICS** -shwetabGangwar himselfs said it & you know from memories - how much you enjoyed talking about it
 9. ==**THE GREAT BOTTLENECK**==
 	1. Journal MEMORIES (Complete, Arrange, Memory Palace, **STORY TELLING**)

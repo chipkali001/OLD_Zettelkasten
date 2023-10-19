@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54fd5782f1f3d415",
+        "id": "de138076a31da029",
         "type": "tabs",
         "children": [
           {
-            "id": "670fc247dafc806c",
+            "id": "6698835f3864eeef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King Warrior Magician Lover.md",
+                "file": "‎ Quill's Pavilion/‎Primer‎/1. Poetic Hindi - Urdu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e2f5e7bd68b8b24e",
+            "id": "27c9a73b093b861b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How To Actually Things - Unlock Productivity.md",
+                "file": "MIngling/‎ Story-Telling/‎ Story-Telling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "2b252d4f4804fc96",
+            "id": "8340bb416b79bab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heart Beat/Timeline.md",
+                "file": "Compendium/2. InterPersonal/Typing/1. Mangolian Mindset.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "3c5c57cc4d0f22c1",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How To Actually Things - Unlock Productivity.md",
+                "file": "MIngling/‎ Story-Telling/‎ Story-Telling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How To Actually Things - Unlock Productivity.md",
+                "file": "MIngling/‎ Story-Telling/‎ Story-Telling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How To Actually Things - Unlock Productivity.md"
+                "file": "MIngling/‎ Story-Telling/‎ Story-Telling.md"
               }
             }
           }
@@ -234,35 +233,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e2f5e7bd68b8b24e",
+  "active": "27c9a73b093b861b",
   "lastOpenFiles": [
-    "King Warrior Magician Lover.md",
-    "How To Actually Things - Unlock Productivity.md",
-    "Heart Beat/Timeline.md",
+    "zBucket List/zBucket List.md",
+    "MIngling/‎ Story-Telling/‎ Story-Telling.md",
     "DashBoard.md",
-    "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
-    "Heart Beat/‎ Cycles Of The Day/‎ Cycles Of The Day.md",
-    "‎ Religion/Instinctual Mind.md",
-    "z‎Work Flows/Personality System/Personality System.md",
+    "Heart Beat/Timeline.md",
+    "MIngling/‎ Story-Telling/Bag Throw.md",
+    "‎ Quill's Pavilion/‎Primer‎/0. Hinglish.md",
+    "King Warrior Magician Lover/King Warrior Magician Lover.md",
     "Compendium/Compendium.md",
-    "Compendium/2. InterPersonal/NLP/NLP.md",
-    "Compendium/2. InterPersonal/NLP/0. Self Mastery Course.md",
+    "Compendium/2. InterPersonal/Typing/1. Mangolian Mindset.md",
+    "Compendium/2. InterPersonal/Typing/Typing.md",
     "‎ Religion/‎ Religion.md",
-    "MIngling/‎ Chatterbox/‎ Chatterbox.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/1. Views, Values, Opinions, Philospophy.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/First Impression.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Fragmenting.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Indignance.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Judement to Please Self.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Liars.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Promiscuity Monogamy Polygamy.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Respect.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Personality Changes.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Memory.md",
-    "MIngling/‎ Chatterbox/2. Conversationalist/1. Views, Values, Opinions, Philospophy/Intution.md",
+    "‎ Mind-Body/2. Vocal Mastery/Pronunciation-Words.md",
+    "Elysium/1. Trexia/1. Trexia.md",
+    "Elysium/2. Immortal/2. Immortal.md",
+    "‎ Quill's Pavilion/‎Primer‎/1. Poetic Hindi - Urdu.md",
+    "Heart Beat/Second Cycle/Phase5 - Labours/Weekly/2023-W40.md",
+    "Heart Beat/EXPITATION & Return Of The Warrior-King.md",
+    "King Warrior Magician Lover/The King Within.md",
+    "King Warrior Magician Lover/The Warrior Within.md",
+    "King Warrior Magician Lover/KWML.md",
+    "King Warrior Magician Lover",
+    "How To Actually Do Things - Unlocking ULTIMATE ORDER.md",
+    "Elysium/2. Immortal/01 Universe/01 Universe.md",
+    "Elysium/2. Immortal/01 Weapons & Tools/01 Weapons & Tools.md",
+    "Elysium/2. Immortal/01 Weapons & Tools/GreatSword.md",
+    "Elysium/2. Immortal/01 Weapons & Tools",
+    "‎ Quill's Pavilion/‎Primer‎/‎ Vocabulary/Words Vocabulary/1. Words (Major)/V1 (143 Words).md",
+    "z‎Work Flows/Personality System/Personality System.md",
     "‎ Religion/Shards",
-    "‎ Religion/Shards/Cycles Of The Day (EXPLAINED).md",
-    "MIngling/Agrim Singh.md",
     "Dashboard 1.canvas",
     "zBackend/Media/Pasted image 20231015121716.png",
     "Mega-Vault",
@@ -279,8 +280,6 @@
     "zBackend/Media/Pasted image 20231011182744.png",
     "zBackend/Media/Screenshot_20230928_123934_Google.jpg",
     "zBackend/Media/ScreenShot_20231003172612.jpeg",
-    "Heart Beat/‎ ‎ BREATHING/Things Do",
-    "Heart Beat/‎ ‎ BREATHING/Buy Wishes",
-    "‎ Mind-Body/6. Swimming-Diving"
+    "Heart Beat/‎ ‎ BREATHING/Things Do"
   ]
 }
